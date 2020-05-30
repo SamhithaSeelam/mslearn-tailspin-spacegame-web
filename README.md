@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=SamhithaSeelam_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=SamhithaSeelam_mslearn-tailspin-spacegame-web)
+
 [![Build Status](https://dev.azure.com/samhithaseelam0591/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/SamhithaSeelam.mslearn-tailspin-spacegame-web%20(1)?branchName=master)](https://dev.azure.com/samhithaseelam0591/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
