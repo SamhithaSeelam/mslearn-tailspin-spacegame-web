@@ -13,3 +13,5 @@
     <Folder Include="wwwroot\images\avatars\" />
   </ItemGroup>
 </Project>
+<PackageReference Include="Tailspin.SpaceGame.Web.Models" Version="1.0.0" />
+<add key="Tailspin.SpaceGame.Web.Models" value="https://pkgs.dev.azure.com/samhithaseelam0591/e86eb32e-38f4-44aa-9e80-8043232f15b5/_packaging/Tailspin.SpaceGame.Web.Models/nuget/v3/index.json" />
